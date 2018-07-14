@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -622,13 +622,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.28rem;
 }
 .form-control,
 .form-control:focus {
@@ -1719,7 +1719,7 @@ body {
   background-image: url("../../../assets/images/house-1280x720.jpg");
 }
 .cid-qOlUxDZGTw H1 {
-  color: #073b4c;
+  color: #f7ed4a;
 }
 .cid-qOoZ1CmCKx {
   padding-top: 45px;
@@ -1896,8 +1896,7 @@ body {
 .cid-qSTdoj6r4u {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #0f7699;
-  background: linear-gradient(#0f7699, #efefef);
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-qSTdoj6r4u .carousel-control {
   background: #000;
@@ -2169,7 +2168,7 @@ body {
   color: #ffffff;
 }
 .cid-qOoZCxleav P {
-  color: #ffffff;
+  color: #f7ed4a;
 }
 .cid-qOpLsrKSyU .navbar {
   background: #5b686b;
