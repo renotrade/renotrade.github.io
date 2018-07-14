@@ -1714,6 +1714,8 @@ body {
   }
 }
 .cid-qOlUxDZGTw {
+  padding-top: 105px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/house-1280x720.jpg");
 }
 .cid-qOlUxDZGTw H1 {
@@ -1734,6 +1736,12 @@ body {
   font-style: italic;
 }
 .cid-qOoZ1CmCKx H1 {
+  color: #ffffff;
+}
+.cid-qOoZ1CmCKx H3 {
+  color: #ffffff;
+}
+.cid-qOoZ1CmCKx P {
   color: #ffffff;
 }
 .cid-qOoZrakh3B {
